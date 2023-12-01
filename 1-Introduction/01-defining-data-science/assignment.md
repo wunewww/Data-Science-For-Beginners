@@ -20,9 +20,9 @@ Fill in the following table (substitute suggested problem domains for your own o
 
 | Problem Domain | Problem | Which data to collect | How to store the data | Which insights/decisions we can make | 
 |----------------|---------|-----------------------|-----------------------|--------------------------------------|
-| Education | | | | |
-| Vaccination | | | | |
-| Productivity | | | | |
+| Education | improve education process for children | children's scores of different subjects; time length of finishing their homework | using 2 different databases: first to store the scores; second to store the length of children's homework time during 1 or 2 months | find how much homework will benefit children's scores the most |
+| Vaccination | control vaccination | amount of vaccinations used by each hospotal| a relative database | to presume how many vaccinations may used by each hospital in the future, if the fact is far from the presumption, launch an investigation |
+| Productivity | impove productivity at work | collect the time of interaction among employees when using different cooperating platforms | based on different types of workers, store the data in relative databases | to find which platform will promote the efficiency the most when working online |
 
 ## Rubric
 
